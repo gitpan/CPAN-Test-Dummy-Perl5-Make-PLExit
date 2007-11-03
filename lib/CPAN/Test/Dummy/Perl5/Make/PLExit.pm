@@ -1,9 +1,8 @@
+package CPAN::Test::Dummy::Perl5::Make::PLExit;
 use strict;
 
-package CPAN::Test::Dummy::Perl5::Make::PLExit;
-
 use vars qw{$VERSION};
-$VERSION = '1.00';
+$VERSION = '1.01';
 
 1;
 
@@ -14,6 +13,10 @@ __END__
 =head1 NAME
 
 CPAN::Test::Dummy::Perl5::Make::PLExit - CPAN Test Dummy
+
+=head1 VERSION
+
+This documentation refers to version 1.01.
 
 =head1 SYNOPSIS
 
